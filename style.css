@@ -31,7 +31,8 @@ li {
 img[alt="Maryam Abuissa"] {
     float: left;
     width: 12em;
-    height: 12em;
+    height: auto;
+    object-fit: contain;
     margin-right: 1em
 }
 
