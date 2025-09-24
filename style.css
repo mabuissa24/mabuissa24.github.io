@@ -66,3 +66,7 @@ a:link {
   a:hover {
     text-decoration: underline;
   }
+
+html {
+    font-size: 100%; 
+}
